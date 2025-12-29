@@ -6,3 +6,5 @@ Test
 # IdeenExpo
 Baude hat empfohln mit Schendier zusammenzuarbeiten; 
 Mail sollte am 02.01. rusgeschickt werden
+# Jugend forscht
+Main eite zur Bearbeitung und Aufgbekontrolle
